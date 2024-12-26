@@ -1,0 +1,17 @@
+g2p-en
+inflect
+librosa
+matplotlib
+numba
+numpy
+pypinyin
+PyYAML
+scikit-learn
+scipy
+soundfile
+tensorboard
+tgt
+torch
+tqdm
+Unidecode
+pyworld
